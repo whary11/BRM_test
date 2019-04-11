@@ -7,6 +7,7 @@ Instalar las dependencias
 *     composer install
 
 Configurar el <strong>.env</strong> con la informacion de la base de datos
+
 ejecutar las migraciones
 *     php artisan migrate:refresh
 El sistema consta de varias partes
