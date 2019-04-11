@@ -1,8 +1,13 @@
 ## David Raga Renteria
 
 # BRM_test
-prueba para BRM
 
+Instalar las dependencias
+*     npm install
+*     composer install
+
+ejecutar las migraciones
+*     php artisan migrate:refresh
 El sistema consta de varias partes
 
 ## menú Basicos:
