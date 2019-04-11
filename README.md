@@ -1,6 +1,7 @@
 ## David Raga Renteria
 
 # BRM_test
+En el archivo <strong> modelo_datos.jpeg </strong> se evidencia el modelo de base de datos que realicé para afrontar esta prueba
 
 Instalar las dependencias
 *     npm install
